@@ -28,9 +28,11 @@
   font-style: italic;
 
   padding-top: 26px;
+  text-align: center;
 }
 .links{
-  padding-top: 26px
+  padding-top: 26px;
+  text-align: center;
 }
 .links a{
   color: black;
@@ -91,4 +93,7 @@ h2{
  }   
 ::selection{
   background-color: #f84342;
+}
+.img-fluid{
+  height: 300px;
 }
